@@ -24,8 +24,6 @@ Skills: Verilog/ C++
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=spdy1895&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=spdy1895)  
-
 ![GitHub metrics](https://metrics.lecoq.io/spdy1895)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=spdy1895)  
