@@ -4,11 +4,12 @@ I'm Shubham Pandey. I do digital and system design usign hdl. I really enjoy lea
 
 Skills: Verilog/ C++ 
 
-- 🔭 I’m currently working on Systolic Processor 
-- 🌱 I’m currently learning Digital design using PLD and FPGA 
+- 🔭 I’m currently working on Systolic Processor array and data acquisition system.
+- 💻 I'm currently learning system verilog for design and c++.
+- 🌱 I’m trying projects on FPGA board and understanding FPGA architecture. 
 - 👯 I’m looking to collaborate on Projects related to FPGA design. 
-- 🤔 I’m looking for help with mapping clocked design into FPGA.  
-- 💬 Ask me about Digital Design, RTL design, FPGA, Hardware Accelerators, Computational Neuroscience 
+- 🤔 I’m looking for help with mapping and translation of design into FPGA i.e. backend stuff realated to FPGA synthesis.  
+- 💬 Ask me about Digital Design, RTL design, FPGA, Hardware Accelerators, Computational Neuroscience. 
 - 📫 How to reach me: shubhampandey18061995@gmail.com 
 - 😄 Pronouns: venom@252 
 - ⚡ Fun fact: you learn more when you try! 
