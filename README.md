@@ -10,6 +10,7 @@ Skills: Verilog/ C++
 - 👯 I’m looking to collaborate on Projects related to FPGA design. 
 - 🤔 I’m looking for help with mapping and translation of design into FPGA i.e. backend stuff realated to FPGA synthesis.  
 - 💬 Ask me about Digital Design, RTL design, FPGA, Hardware Accelerators, Computational Neuroscience. 
+- 📝 I have also designed synthesizable AMBA protocol based AHB APB bus bridge and slave peripheral.
 - 📫 How to reach me: shubhampandey18061995@gmail.com 
 - 😄 Pronouns: venom@252 
 - ⚡ Fun fact: you learn more when you try! 
