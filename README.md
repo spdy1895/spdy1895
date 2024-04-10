@@ -12,7 +12,7 @@ Skills: Verilog/ C++
 - 💬 Ask me about Digital Design, RTL design, FPGA, Hardware Accelerators, Computational Neuroscience. 
 - 📝 I have also designed synthesizable AMBA protocol based AHB APB bus bridge and slave peripheral.
 - 📫 How to reach me: shubhampandey18061995@gmail.com 
-- 😄 Pronouns: venom@252 
+- 😄 Pronouns: SpeedyPandey 
 - ⚡ Fun fact: you learn more when you try! 
 
 
