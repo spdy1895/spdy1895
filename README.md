@@ -1,16 +1,20 @@
 ### Hi there 👋, Shubham Pandey
-#### VLSI Engineer
-I'm Shubham Pandey. I do digital and system design usign hdl. I really enjoy learning synthesizable constructs and FPGA as well. I am also exploring hardware for Computational Neuroscience.
+#### VLSI/GPU Design Engineer
+I'm Shubham Pandey (your techy buddy for VLSI design)
+  I do digital and hardware design using System Verilog+Verilog+VHDL hdl. I enjoy learning synthesizable constructs for module design, SoC design, Clock and reset architecture, and more to explore once you start reading.
+  I have hands-on in synthesis, lint, formality, GLS vs Netlist, CDC(I have to read more) and RDC (yet to read).
+  I am yet to get hands-on writing scalable testbenches for the designs I write. 
+  I am also exploring hardware for Computational Neuroscience. This is an amazing research area. How amazing it would be if you can design hardware mimicking the basic neural activity of the brain.
 
-Skills: Verilog/ C++ 
+Skills: System Verilog/VHDL/Verilog/C++/Python/bash_scripting
 
-- 🔭 I’m currently working on Systolic Processor array and data acquisition system.
+- 🔭 I’m currently working on various SYNTHESIS ALGORITHMS AND ADVANCED HARDWARE ARCHITECTURES to improve PPA.
 - 💻 I'm currently learning system verilog for design and c++.
-- 🌱 I’m trying projects on FPGA board and understanding FPGA architecture. 
-- 👯 I’m looking to collaborate on Projects related to FPGA design. 
+- 🌱 I’m using open-source tools such as IVERILOG, YOSYS, VERILATOR, etc to complete the front-end aspect of the design.
+- 👯 I might look for collaborations on some projects in future. 
 - 🤔 I’m looking for help with mapping and translation of design into FPGA i.e. backend stuff realated to FPGA synthesis.  
-- 💬 Ask me about Digital Design, RTL design, FPGA, Hardware Accelerators, Computational Neuroscience. 
-- 📝 I have also designed synthesizable AMBA protocol based AHB APB bus bridge and slave peripheral.
+- 💬 Ask me about Digital Design, RTL design, FPGA, Hardware Accelerators, and Computational Neuroscience. 
+- 📝 I have also designed synthesizable AMBA protocol based AHB APB bus bridge and slave peripheral (for college thesis couldn't do the verification part).
 - 📫 How to reach me: shubhampandey18061995@gmail.com 
 - 😄 Pronouns: SpeedyPandey 
 - ⚡ Fun fact: you learn more when you try! 
